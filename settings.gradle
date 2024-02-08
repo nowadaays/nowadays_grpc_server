@@ -1,0 +1,4 @@
+rootProject.name = 'grpc_nowadays'
+include 'grpc_srever'
+include 'grpc_client'
+
